@@ -1,0 +1,13 @@
+.form {
+    width: 450px ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+}
+#floatingPassword{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+#creeCompte{
+    margin-top: 2%;
+}

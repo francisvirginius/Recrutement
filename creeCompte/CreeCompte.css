@@ -1,0 +1,19 @@
+form{
+    width: 450px ;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+}
+#floatingPassword{
+    margin-top: 1%;
+}
+#candidats{
+    margin-top: 1%;
+    margin-bottom: 4%;
+}
+.question{
+    margin-top: 2%;
+}
+#floatingInput{
+    margin-top: 1%;
+}
