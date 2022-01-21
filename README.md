@@ -28,6 +28,6 @@ B&b@test.com
 hotel75@test.com
 SimonleRoux@test.com
 
-le mot de passe est le meme pour tout les comptes : -> azerty
+Le mot de passe est le même pour tous les comptes. : -> azerty
 
 
