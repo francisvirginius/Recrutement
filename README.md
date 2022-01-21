@@ -10,3 +10,24 @@ La création d'un administrateur ce fait dans le développement du site. Tout d'
 Ensuite il faut s'assurer qu'uniquement administrateur ait accès à cette page.
 
 
+les users :
+admin : fran@test.com  
+
+candidats:
+billechauffeur@test.com
+manon@test.com 
+DuboisDurand@test.com
+PetitBernard@test.com
+serveurman@test.com
+
+recruteur:
+mariacorp@organisation.com
+ThomasRichard@test.com 
+Biarritz@test.com 
+B&b@test.com
+hotel75@test.com
+SimonleRoux@test.com
+
+le mot de passe est le meme pour tout les comptes : -> azerty
+
+
