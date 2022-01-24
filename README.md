@@ -13,20 +13,21 @@ Ensuite il faut s'assurer qu'uniquement administrateur ait accès à cette page.
 les users :
 admin : fran@test.com  
 
-candidats:
+recruteur:
 billechauffeur@test.com
 manon@test.com 
 DuboisDurand@test.com
 PetitBernard@test.com
 serveurman@test.com
-
-recruteur:
 mariacorp@organisation.com
+
+candidats:
 ThomasRichard@test.com 
 Biarritz@test.com 
-B&b@test.com
-hotel75@test.com
 SimonleRoux@test.com
+LilyAlya@test.com
+RoxaneAuguste@test.com 
+
 
 Le mot de passe est le même pour tous les comptes. : -> azerty
 
